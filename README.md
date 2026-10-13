@@ -14,7 +14,6 @@ cd Claude
 ## Как предложить изменение
 
 1. Создайте ветку от `main`: `git switch -c my-change`.
-2. 2. Внесите правки и закоммитьте их: `git commit -am "Описание изменения"`.
-   3. 3. Отправьте ветку: `git push -u origin my-change`.
-      4. 4. Откройте pull request в `main` на GitHub.
-         5. 
+2. Внесите правки и закоммитьте их: `git commit -am "Описание изменения"`.
+3. Отправьте ветку: `git push -u origin my-change`.
+4. Откройте pull request в `main` на GitHub.
